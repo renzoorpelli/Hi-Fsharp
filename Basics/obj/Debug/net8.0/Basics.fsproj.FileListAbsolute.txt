@@ -1,0 +1,14 @@
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\bin\Debug\net8.0\Basics.deps.json
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\bin\Debug\net8.0\Basics.dll
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\bin\Debug\net8.0\Basics.pdb
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\bin\Debug\net8.0\Basics.xml
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.fsproj.AssemblyReference.cache
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.fs
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.fsproj.CoreCompileInputs.cache
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.sourcelink.json
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.dll
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\refint\Basics.dll
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.xml
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\Basics.pdb
+C:\Users\renzo\RiderProjects\IntroductionFSharp\Basics\obj\Debug\net8.0\ref\Basics.dll
