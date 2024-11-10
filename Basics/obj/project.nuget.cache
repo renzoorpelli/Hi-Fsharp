@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bCZMzVos0uT4W63LTB/aa8YPk/Kx8qPK9KmX1Hc3sgSHk4yik52OTUZqA6P5FX/cVPtez8xaWxj5QZbon7oiog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renzo\\RiderProjects\\IntroductionFSharp\\Basics\\Basics.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renzo\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
