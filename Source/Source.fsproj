@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <RootNamespace>Basics</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Basics\Variables.fs" />
+        <Compile Include="Basics\Functions.fs" />
+        <Compile Include="Basics\Composition.fs" />
+        <Compile Include="Basics\Pipelines.fs" />
+        <Compile Include="Basics\Strings.fs" />
+        <Compile Include="Concepts\Functors.fs" />
+        <Compile Include="Concepts\Monads.fs" />
+        <Compile Include="Concepts\PatternMatching.fs" />
+    </ItemGroup>
+
+</Project>

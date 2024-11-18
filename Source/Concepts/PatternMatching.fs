@@ -1,7 +1,6 @@
-﻿namespace Basics
+﻿namespace Source.Basics
     
 module PatternMatching =
-    
     // Shape
     type Shape =
     | Square of side : double
@@ -53,7 +52,6 @@ module PatternMatching =
         match day with
         | Saturday | Sunday -> true
         | _ -> false
-        
         
     // Destructure first two elements from a list
     let describeList lst =

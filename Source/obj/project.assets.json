@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renzo\\RiderProjects\\IntroductionFSharp\\Basics\\Basics.fsproj",
-      "projectName": "Basics",
-      "projectPath": "C:\\Users\\renzo\\RiderProjects\\IntroductionFSharp\\Basics\\Basics.fsproj",
+      "projectUniqueName": "C:\\Users\\renzo\\RiderProjects\\IntroductionFSharp\\Source\\Source.fsproj",
+      "projectName": "Source",
+      "projectPath": "C:\\Users\\renzo\\RiderProjects\\IntroductionFSharp\\Source\\Source.fsproj",
       "packagesPath": "C:\\Users\\renzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renzo\\RiderProjects\\IntroductionFSharp\\Basics\\obj\\",
+      "outputPath": "C:\\Users\\renzo\\RiderProjects\\IntroductionFSharp\\Source\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
